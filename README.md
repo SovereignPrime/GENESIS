@@ -18,7 +18,7 @@ The roadmap for this project includes the development of the following features:
 - Distributed human rights protection systems. 
 - Distributed crowd funding. 
 - eCommerce  
-= Social networking
+- Social networking
 - Everything else one might want in a free and open society.
 
 This project is still at the conceptual stage
