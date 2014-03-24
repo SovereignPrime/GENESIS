@@ -10,15 +10,15 @@ New features and modifications to Genesis will also be funded and prioritized th
 
 The roadmap for this project includes the development of the following features:
 
-Distribution of open source apps that compile from included distributed code repositories. 
-Membership schemes that cover cost related to health and human rights protection. 
-Distributed online courses with peer review system allowing students to progress through subject matter. 
-Distributed crowd sourced micro loans/ credit escalation systems.
-Distributed health care system. 
-Distributed human rights protection systems. 
-Distributed crowd funding. 
-eCommerce  
-Social networking
-Everything else one might want in a free and open society.
+- Distribution of open source apps that compile from included distributed code repositories. 
+- Membership schemes that cover cost related to health and human rights protection. 
+- Distributed online courses with peer review system allowing students to progress through subject matter. 
+- Distributed crowd sourced micro loans/ credit escalation systems.
+- Distributed health care system. 
+- Distributed human rights protection systems. 
+- Distributed crowd funding. 
+- eCommerce  
+= Social networking
+- Everything else one might want in a free and open society.
 
 This project is still at the conceptual stage
